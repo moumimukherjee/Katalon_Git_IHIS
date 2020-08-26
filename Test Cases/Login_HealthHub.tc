@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_HealthHub</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdd8d493-6029-4497-ade1-b644823a36a1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>785a3224-934f-43b9-8827-8cfa59abe681</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d7069c6-6c47-4309-9da0-de36d744fb45</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0cf6bb87-4afd-472b-99ba-ad4f5f2189b1</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
